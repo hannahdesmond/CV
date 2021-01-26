@@ -1,6 +1,7 @@
-## Your Name
+## Hannah Desmond
+I am a determined, adaptable and warm full-stack junior developer. I come bearing plenty of transferabke skills having worked in several areas before making a move into the exciting world of tech. I have a solid academic and practical background in psychology as well as experience teaching English abroad and coaching tech professionals in communication, and I have worked as a freelance proofreader and copywriter. As well as my newly found tech skills, I bring creativity, communication skills and an inquisitive nature to my work. 
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+In January 2021, I joined selective bootcamp, Makers Academy, marking the most exciting step in my career journey so far. I'm a ardent learner and I am excited to work in a field where I can continue to expand my knowledge and skills that I acquired at Makers and during my previous work experience.
 
 ## Projects
 
