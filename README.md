@@ -98,9 +98,9 @@ BA(Hons) Psychology and Philosophy, 2:1
 
 #### Any other qualifications
 
-College of Media and Publishing – Diploma in Copywriting (Distinction)
-St. Giles International – Trinity Certificate in Teaching English to Speakers of Other Languages
-University of Central Lancashire – Postgraduate Certificate in Primary Care Mental Health Practices
+- College of Media and Publishing – Diploma in Copywriting (Distinction)
+- St. Giles International – Trinity Certificate in Teaching English to Speakers of Other Languages
+- University of Central Lancashire – Postgraduate Certificate in Primary Care Mental Health Practices
 
 ## Hobbies
 
