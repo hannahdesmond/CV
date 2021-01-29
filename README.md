@@ -1,7 +1,7 @@
 ## Hannah Desmond
 I am a determined, adaptable and warm full-stack junior developer. I come bearing plenty of transferable skills gained from a solid academic and practical background in psychology as well as experience teaching English abroad and coaching tech professionals in communication. For the last several years, I have also worked as a freelance proofreader and copywriter. As well as my fresh-to-the-market tech skills, I bring creativity, top-notch communication skills and an inquisitive nature to my work. And if you ask my former colleagues, they'd tell you I'm fun to work with. 
 
-In January 2021, I joined selective bootcamp, Makers Academy, marking the most exciting step in my career journey so far. I'm a ardent learner and I am excited to find a role where I can do something positive while continuing to expand my knowledge and skills that I acquired at Makers and during my previous work experience.
+In January 2021, I joined selective bootcamp, Makers Academy, marking the most exciting step in my career journey so far. I'm an ardent learner and I am excited to find a role where I can do something positive while continuing to expand my knowledge and skills that I acquired at Makers and during my previous work experience.
 
 ## Projects
 
@@ -66,22 +66,22 @@ _Customer Services Administrator_
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### Communication Skills
 
-I am an articulate communicator with notable written, oral, influencing, presentation and active listening skills. I have built on these skills throughout my career, starting in customer service and adminstrative teams. My skills grew, enabling me to become more persuasive and precise in my communication when coaching behaviour change and motivating patients and students in my mental health and welfare roles, as well as working with external teams and services with conflicting priorities, persuading them to take action, and having difficult conversations with colleagues, students and patients. 
+I am an articulate communicator with notable written, oral, influencing, presentation and active listening skills. I have built on these skills throughout my career, starting in customer service and administrative teams. My skills grew, enabling me to become more persuasive and precise in my communication when coaching behaviour change and motivating patients and students in my mental health and welfare roles, as well as working with external teams and services with conflicting priorities, persuading them to take action, and having difficult conversations with colleagues, students and patients. 
 
-More recently, in my capacity as freelance copywriter, I improved the web presence, visibility and credibility of a client (a social enterprise) by delivering weby copy for a large website. I interviewed the MD and their staff, as well as other stakeholders such as artists and volunteers, to create a comprehensive brief. I communicated remotely with the web designer to understand the templates that I needed to work within, as well as communicate the requirements from a copy perspective. Over a period of 2 months I wrote, sought feedback and revised the web copy, which you can find here: https://ourbigpicture.co.uk
+More recently, in my capacity as a freelance copywriter, I improved the web presence, visibility and credibility of a client (a social enterprise) by delivering web copy for a large website. I interviewed the MD and their staff, as well as other stakeholders such as artists and volunteers, to create a comprehensive brief. I communicated remotely with the web designer to understand the templates that I needed to work within, as well as communicate the requirements from a copy perspective. Over a period of two months, I wrote, sought feedback and revised the web copy, which you can find here: https://ourbigpicture.co.uk
 
-#### Another Skill
+#### Self-Development Skills & Sharing Knowledge
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+It is clear from my career and educational history that I enjoy learning and developing myself. I have learned a range of new skills in my career to date. After completing my mental health training course while working in the NHS, I regularly recorded my sessions with service users and sought feedback from my supervisors. In my Senior PWP role, I kept a reflective journal and identified areas where I could improve my skillset, and I attended CPD sessions on managing anger, self-esteem, and various other relevant topics. I also shared the knowledge I acquired with other staff by providing short training sessions in team meetings. This allowed the team to develop their skillsets and provide a more comprehensive service.  
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Teamworking Skills
+
+The teams I have worked in throughout my career have been varied. In the UK, I worked with several teams of therapists and with academic and support staff at Roehampton University, and in South Korea, I worked in teams of local and international teams. 
+
+As a Student Welfare Officer, I worked within a close team where we often worked collaboratively, managing the welfare of the students and improving retention rates at the University. University departments, staff, and students often have competing priorities. Employing excellent teamworking skills to get the most out of collaboration was crucial, for example, when working with one particular student who was a risk to themselves, I met with my team and we created a strategy where we could all provide support to the student and share information and resources. We identified some of the areas of weakness in University policy in this area and spent time with the Student Services management team developing a new risk policy for the University.
 
 ## Education
 
@@ -94,9 +94,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### University of Sheffield (2004 - 2007)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+BA(Hons) Psychology and Philosophy, 2:1
 
 #### Any other qualifications
 
